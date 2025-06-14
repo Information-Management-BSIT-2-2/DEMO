@@ -1,5 +1,5 @@
 # your repo
-[click here the n follow the steps](https://github.com/Information-Management-BSIT-2-2/IM-PROJECT)
+[click here then follow the steps](https://github.com/Information-Management-BSIT-2-2/IM-PROJECT)
 
 
 # DEMO
