@@ -1,3 +1,7 @@
+# your repo
+[click here the n follow the steps](https://github.com/Information-Management-BSIT-2-2/IM-PROJECT)
+
+
 # DEMO
 ### para maging public yung repo
 <img align="center" alt="Coding" width="3000" src="https://github.com/Information-Management-BSIT-2-2/DEMO/blob/main/image.png?raw=true">
